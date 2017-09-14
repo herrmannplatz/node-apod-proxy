@@ -1,0 +1,17 @@
+{
+  "name": "apod-proxy",
+  "version": "0.0.1",
+  "description": "nasa api proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "1.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  }
+}
